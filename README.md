@@ -1,0 +1,1 @@
+# hareketli_hareketsiz-nesne2
